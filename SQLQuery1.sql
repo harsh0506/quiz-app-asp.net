@@ -1,0 +1,1 @@
+﻿insert into test1_maths values ('what is your fav color' , 'red','blue' ,'white','pink' ,'pink')
